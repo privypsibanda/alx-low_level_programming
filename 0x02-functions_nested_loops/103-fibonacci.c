@@ -1,4 +1,4 @@
-#include <stdio>
+#include <stdio.h>
 
 /**
  * main - Prints the sum of Even Fibonacci numbers
@@ -22,5 +22,5 @@ int main(void)
 	++i;
 	}
 	printf("%ld\n", sum);
-	return (0)
+	return (0);
 }
